@@ -1,4 +1,4 @@
-<img style="margin-right: 30px " width="800" height="800" src="https://github.com/Tuhin4042/resource/blob/main/Village.jpg">
+<img style="margin-right: 30px " width="700" height="600" src="https://github.com/Tuhin4042/resource/blob/main/Village.jpg">
 
 # Village Scenario Simulation
 
