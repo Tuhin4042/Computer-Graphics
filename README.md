@@ -21,6 +21,3 @@ This project presents a detailed simulation of a village environment using OpenG
 1. Make sure OpenGL and GLUT libraries are installed.
 2. Compile the code using a compatible C++ compiler.
 
-Example:
-```bash
-g++ main.cpp -o village_sim -lGL -lGLU -lglut
