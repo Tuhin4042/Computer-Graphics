@@ -1,3 +1,5 @@
+<img style="margin-right: 30px " width="800" height="800" src="https://github.com/Tuhin4042/resource/blob/main/Village.jpg">
+
 # Village Scenario Simulation
 
 Experience a realistic village simulation built with OpenGL, featuring animated and interactive elements that bring a rural scene to life. Each detail, from environmental transitions to dynamic interactions, is crafted for immersion.
