@@ -1,23 +1,21 @@
 # Village Scenario Simulation
 
-This project presents a detailed simulation of a village environment using OpenGL, showcasing animated and interactive elements that bring the village scene to life. Designed with attention to realism, this simulation features multiple environmental transitions and interactive components.
+Experience a realistic village simulation built with OpenGL, featuring animated and interactive elements that bring a rural scene to life. Each detail, from environmental transitions to dynamic interactions, is crafted for immersion.
 
 ## Features
 
-- **Boat Movement**: A boat moves naturally along the river, adding realism to the village atmosphere.
-- **Day-Night Cycle**: A smooth transition between day and night, changing the background colors to reflect the time of day.
-- **Rain Effect**: Toggleable rain effect with animated raindrops, enhancing the weather simulation.
-- **Dynamic Background**: Different background colors for day and night settings.
-- **Interactive Controls**: Allows toggling of weather (rain) and time of day (day/night) modes to explore different environmental conditions in real-time.
-- **Realistic Physics**: Elements like raindrops move with realistic physics, enhancing the immersive experience.
+- **Boat Movement**: Smooth, natural boat motion across the river, enhancing the scene's realism.
+- **Day-Night Cycle**: Automatic transitions reflect the time of day, altering background hues from dawn to dusk.
+- **Rain Effect**: Toggle rain with animated drops, creating a vivid weather experience.
+- **Dynamic Background**: Adjusts between day and night visuals.
+- **Interactive Controls**: Switch between day/night and rain modes, simulating various environmental states.
+- **Realistic Physics**: Elements like raindrops follow physics, heightening immersion.
 
 ## Dependencies
 
-- OpenGL
-- GLUT
+- **OpenGL** and **GLUT**
 
 ## Installation
 
-1. Make sure OpenGL and GLUT libraries are installed.
-2. Compile the code using a compatible C++ compiler.
-
+1. Ensure OpenGL and GLUT libraries are installed.
+2. Compile with a compatible C++ compiler:
